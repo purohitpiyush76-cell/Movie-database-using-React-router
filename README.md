@@ -17,6 +17,8 @@ A simple and beginner-friendly Movie Database application built with **React**, 
 * HTML5
 * CSS3
 
+<img width="1919" height="1008" alt="Screenshot 2026-07-02 114353" src="https://github.com/user-attachments/assets/9ca8eae8-584a-4c4a-ad74-e49b606ea085" />
+
 ##  Project Structure
 
 ```text
@@ -86,6 +88,11 @@ npm run dev
 * Dynamic Routing with `useParams()`
 * Component-based architecture
 * Basic state-independent data rendering
+
+## Output
+
+<img width="1919" height="1016" alt="Screenshot 2026-07-02 114339" src="https://github.com/user-attachments/assets/2b43b9dd-493d-4c2b-a7be-1221428da2a7" />
+
 
 ## Future Improvements
 
