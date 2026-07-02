@@ -1,3 +1,11 @@
+Name - Piyush purohit
+Intern ID - CITS6185
+No of weeks - 4
+Project name - Movie database(react router)
+Project scope -  To enable a user find movies of their interest.
+
+
+
 A simple and beginner-friendly Movie Database application built with **React**, **Vite**, and **React Router**. This project demonstrates the fundamentals of client-side routing in React by allowing users to browse a list of movies, view detailed information about each movie, and navigate seamlessly between pages without reloading the application.
 
 ##  Technologies Used
